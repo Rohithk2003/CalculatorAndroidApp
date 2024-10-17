@@ -1,0 +1,47 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="mooc.vandy.java4android.m8_calculator"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="22"
+8-->G:\m8-calculator\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->G:\m8-calculator\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->G:\m8-calculator\app\src\main\AndroidManifest.xml:5:5-20:19
+12        android:allowBackup="true"
+12-->G:\m8-calculator\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.1.0] C:\Users\rohit\.gradle\caches\8.9\transforms\2e5a5303f0afd7db45fba4b53cb84a9e\transformed\core-1.1.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher"
+15-->G:\m8-calculator\app\src\main\AndroidManifest.xml:7:9-43
+16        android:label="@string/app_name"
+16-->G:\m8-calculator\app\src\main\AndroidManifest.xml:8:9-41
+17        android:supportsRtl="true"
+17-->G:\m8-calculator\app\src\main\AndroidManifest.xml:9:9-35
+18        android:testOnly="true" >
+19        <activity
+19-->G:\m8-calculator\app\src\main\AndroidManifest.xml:11:9-19:20
+20            android:name="mooc.vandy.java4android.calculator.ui.MainActivity"
+20-->G:\m8-calculator\app\src\main\AndroidManifest.xml:12:13-44
+21            android:exported="true" > <!-- Add this line -->
+21-->G:\m8-calculator\app\src\main\AndroidManifest.xml:13:13-36
+22
+23            <intent-filter>
+23-->G:\m8-calculator\app\src\main\AndroidManifest.xml:15:13-18:29
+24                <action android:name="android.intent.action.MAIN" />
+24-->G:\m8-calculator\app\src\main\AndroidManifest.xml:16:17-69
+24-->G:\m8-calculator\app\src\main\AndroidManifest.xml:16:25-66
+25
+26                <category android:name="android.intent.category.LAUNCHER" />
+26-->G:\m8-calculator\app\src\main\AndroidManifest.xml:17:17-77
+26-->G:\m8-calculator\app\src\main\AndroidManifest.xml:17:27-74
+27            </intent-filter>
+28        </activity>
+29    </application>
+30
+31</manifest>

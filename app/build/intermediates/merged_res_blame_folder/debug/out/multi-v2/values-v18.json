@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "mooc.vandy.java4android.calculator.app-mergeDebugResources-13:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\rohit\\.gradle\\caches\\8.9\\transforms\\ada9f5837f5365f0c4a51f9e965da989\\transformed\\appcompat-1.1.0\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

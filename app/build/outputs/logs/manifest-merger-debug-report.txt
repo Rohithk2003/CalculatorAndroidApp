@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\m8-calculator\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from G:\m8-calculator\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from G:\m8-calculator\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from G:\m8-calculator\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\rohit\.gradle\caches\8.9\transforms\3df026783b68c3f03196f00b2a9cac2d\transformed\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\rohit\.gradle\caches\8.9\transforms\ada9f5837f5365f0c4a51f9e965da989\transformed\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\rohit\.gradle\caches\8.9\transforms\89609ad3008ac833bcd92067519bcd16\transformed\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\rohit\.gradle\caches\8.9\transforms\2c7313d76595372bafbd334a0cf9b92e\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\rohit\.gradle\caches\8.9\transforms\3d7a9ad67da1bd3e772cd5e8661b7b82\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\rohit\.gradle\caches\8.9\transforms\12986e60611590547462fbd4c4e888f1\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\rohit\.gradle\caches\8.9\transforms\79b144d8d11218123437be7650785679\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\rohit\.gradle\caches\8.9\transforms\a4fdcc62d87b3e2b532ef702b42f3e59\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\rohit\.gradle\caches\8.9\transforms\451a2f5b4e3c77e7b5eb0b4c461abd9b\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\rohit\.gradle\caches\8.9\transforms\704c3a99252a0c0846f69f692b95628d\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\rohit\.gradle\caches\8.9\transforms\474a4b4620cbcaa9105f61b95718ab87\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\rohit\.gradle\caches\8.9\transforms\a328376c9f2f55a8e2bc79806ad4c217\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\rohit\.gradle\caches\8.9\transforms\691867c3a333af8871ed06c88f50c73e\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\rohit\.gradle\caches\8.9\transforms\d7aee0179fe8758637c91ee80af9af6c\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\rohit\.gradle\caches\8.9\transforms\f50c9f9c5c0b78ccaf7f11b834bc5c38\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\rohit\.gradle\caches\8.9\transforms\92ab6098a92411508def08a7fec090c5\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\rohit\.gradle\caches\8.9\transforms\2e5a5303f0afd7db45fba4b53cb84a9e\transformed\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\rohit\.gradle\caches\8.9\transforms\c146dfa0c86438b9101a48d8774d15f3\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\rohit\.gradle\caches\8.9\transforms\53923b75e3774588cc8fdcd100c8547b\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\rohit\.gradle\caches\8.9\transforms\e1965fe0deae931719a7c713cd8c801a\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\rohit\.gradle\caches\8.9\transforms\29c4644a6bcb10441f4f55d96d28bbd2\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\rohit\.gradle\caches\8.9\transforms\40e900dbc71055f6337739de3efc2e53\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\rohit\.gradle\caches\8.9\transforms\016707d168ee9a5a2076a68277dd3bde\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\rohit\.gradle\caches\8.9\transforms\149261384ca91199989dbf82e1107ee9\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\rohit\.gradle\caches\8.9\transforms\0df38e9f0de3c27de6df9bb0436ff1bd\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\rohit\.gradle\caches\8.9\transforms\cf98cffecfb855c6cf3eea5936fa9cc0\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\rohit\.gradle\caches\8.9\transforms\a3ccb3ceaf8a4966855e268475c02920\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from G:\m8-calculator\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from G:\m8-calculator\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from G:\m8-calculator\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from G:\m8-calculator\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from G:\m8-calculator\app\src\main\AndroidManifest.xml
+		INJECTED from G:\m8-calculator\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\m8-calculator\app\src\main\AndroidManifest.xml
+		ADDED from G:\m8-calculator\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from G:\m8-calculator\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from G:\m8-calculator\app\src\main\AndroidManifest.xml
+		ADDED from G:\m8-calculator\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from G:\m8-calculator\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\m8-calculator\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from G:\m8-calculator\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\rohit\.gradle\caches\8.9\transforms\3df026783b68c3f03196f00b2a9cac2d\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\rohit\.gradle\caches\8.9\transforms\3df026783b68c3f03196f00b2a9cac2d\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\rohit\.gradle\caches\8.9\transforms\89609ad3008ac833bcd92067519bcd16\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\rohit\.gradle\caches\8.9\transforms\89609ad3008ac833bcd92067519bcd16\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\rohit\.gradle\caches\8.9\transforms\2e5a5303f0afd7db45fba4b53cb84a9e\transformed\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\rohit\.gradle\caches\8.9\transforms\2e5a5303f0afd7db45fba4b53cb84a9e\transformed\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\rohit\.gradle\caches\8.9\transforms\e1965fe0deae931719a7c713cd8c801a\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\rohit\.gradle\caches\8.9\transforms\e1965fe0deae931719a7c713cd8c801a\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\rohit\.gradle\caches\8.9\transforms\2e5a5303f0afd7db45fba4b53cb84a9e\transformed\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from G:\m8-calculator\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from G:\m8-calculator\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from G:\m8-calculator\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from G:\m8-calculator\app\src\main\AndroidManifest.xml:6:9-35
+activity#mooc.vandy.java4android.calculator.ui.MainActivity
+ADDED from G:\m8-calculator\app\src\main\AndroidManifest.xml:11:9-19:20
+	android:exported
+		ADDED from G:\m8-calculator\app\src\main\AndroidManifest.xml:13:13-36
+	android:name
+		ADDED from G:\m8-calculator\app\src\main\AndroidManifest.xml:12:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from G:\m8-calculator\app\src\main\AndroidManifest.xml:15:13-18:29
+action#android.intent.action.MAIN
+ADDED from G:\m8-calculator\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from G:\m8-calculator\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\m8-calculator\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from G:\m8-calculator\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from G:\m8-calculator\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\m8-calculator\app\src\main\AndroidManifest.xml
+INJECTED from G:\m8-calculator\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\rohit\.gradle\caches\8.9\transforms\3df026783b68c3f03196f00b2a9cac2d\transformed\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\rohit\.gradle\caches\8.9\transforms\3df026783b68c3f03196f00b2a9cac2d\transformed\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\rohit\.gradle\caches\8.9\transforms\ada9f5837f5365f0c4a51f9e965da989\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\rohit\.gradle\caches\8.9\transforms\ada9f5837f5365f0c4a51f9e965da989\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\rohit\.gradle\caches\8.9\transforms\89609ad3008ac833bcd92067519bcd16\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\rohit\.gradle\caches\8.9\transforms\89609ad3008ac833bcd92067519bcd16\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\rohit\.gradle\caches\8.9\transforms\2c7313d76595372bafbd334a0cf9b92e\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\rohit\.gradle\caches\8.9\transforms\2c7313d76595372bafbd334a0cf9b92e\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\rohit\.gradle\caches\8.9\transforms\3d7a9ad67da1bd3e772cd5e8661b7b82\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\rohit\.gradle\caches\8.9\transforms\3d7a9ad67da1bd3e772cd5e8661b7b82\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\rohit\.gradle\caches\8.9\transforms\12986e60611590547462fbd4c4e888f1\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\rohit\.gradle\caches\8.9\transforms\12986e60611590547462fbd4c4e888f1\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\rohit\.gradle\caches\8.9\transforms\79b144d8d11218123437be7650785679\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\rohit\.gradle\caches\8.9\transforms\79b144d8d11218123437be7650785679\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\rohit\.gradle\caches\8.9\transforms\a4fdcc62d87b3e2b532ef702b42f3e59\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\rohit\.gradle\caches\8.9\transforms\a4fdcc62d87b3e2b532ef702b42f3e59\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\rohit\.gradle\caches\8.9\transforms\451a2f5b4e3c77e7b5eb0b4c461abd9b\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\rohit\.gradle\caches\8.9\transforms\451a2f5b4e3c77e7b5eb0b4c461abd9b\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\rohit\.gradle\caches\8.9\transforms\704c3a99252a0c0846f69f692b95628d\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\rohit\.gradle\caches\8.9\transforms\704c3a99252a0c0846f69f692b95628d\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\rohit\.gradle\caches\8.9\transforms\474a4b4620cbcaa9105f61b95718ab87\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\rohit\.gradle\caches\8.9\transforms\474a4b4620cbcaa9105f61b95718ab87\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\rohit\.gradle\caches\8.9\transforms\a328376c9f2f55a8e2bc79806ad4c217\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\rohit\.gradle\caches\8.9\transforms\a328376c9f2f55a8e2bc79806ad4c217\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\rohit\.gradle\caches\8.9\transforms\691867c3a333af8871ed06c88f50c73e\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\rohit\.gradle\caches\8.9\transforms\691867c3a333af8871ed06c88f50c73e\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\rohit\.gradle\caches\8.9\transforms\d7aee0179fe8758637c91ee80af9af6c\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\rohit\.gradle\caches\8.9\transforms\d7aee0179fe8758637c91ee80af9af6c\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\rohit\.gradle\caches\8.9\transforms\f50c9f9c5c0b78ccaf7f11b834bc5c38\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\rohit\.gradle\caches\8.9\transforms\f50c9f9c5c0b78ccaf7f11b834bc5c38\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\rohit\.gradle\caches\8.9\transforms\92ab6098a92411508def08a7fec090c5\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\rohit\.gradle\caches\8.9\transforms\92ab6098a92411508def08a7fec090c5\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\rohit\.gradle\caches\8.9\transforms\2e5a5303f0afd7db45fba4b53cb84a9e\transformed\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\rohit\.gradle\caches\8.9\transforms\2e5a5303f0afd7db45fba4b53cb84a9e\transformed\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\rohit\.gradle\caches\8.9\transforms\c146dfa0c86438b9101a48d8774d15f3\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\rohit\.gradle\caches\8.9\transforms\c146dfa0c86438b9101a48d8774d15f3\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\rohit\.gradle\caches\8.9\transforms\53923b75e3774588cc8fdcd100c8547b\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\rohit\.gradle\caches\8.9\transforms\53923b75e3774588cc8fdcd100c8547b\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\rohit\.gradle\caches\8.9\transforms\e1965fe0deae931719a7c713cd8c801a\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\rohit\.gradle\caches\8.9\transforms\e1965fe0deae931719a7c713cd8c801a\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\rohit\.gradle\caches\8.9\transforms\29c4644a6bcb10441f4f55d96d28bbd2\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\rohit\.gradle\caches\8.9\transforms\29c4644a6bcb10441f4f55d96d28bbd2\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\rohit\.gradle\caches\8.9\transforms\40e900dbc71055f6337739de3efc2e53\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\rohit\.gradle\caches\8.9\transforms\40e900dbc71055f6337739de3efc2e53\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\rohit\.gradle\caches\8.9\transforms\016707d168ee9a5a2076a68277dd3bde\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\rohit\.gradle\caches\8.9\transforms\016707d168ee9a5a2076a68277dd3bde\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\rohit\.gradle\caches\8.9\transforms\149261384ca91199989dbf82e1107ee9\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\rohit\.gradle\caches\8.9\transforms\149261384ca91199989dbf82e1107ee9\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\rohit\.gradle\caches\8.9\transforms\0df38e9f0de3c27de6df9bb0436ff1bd\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\rohit\.gradle\caches\8.9\transforms\0df38e9f0de3c27de6df9bb0436ff1bd\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\rohit\.gradle\caches\8.9\transforms\cf98cffecfb855c6cf3eea5936fa9cc0\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\rohit\.gradle\caches\8.9\transforms\cf98cffecfb855c6cf3eea5936fa9cc0\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\rohit\.gradle\caches\8.9\transforms\a3ccb3ceaf8a4966855e268475c02920\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\rohit\.gradle\caches\8.9\transforms\a3ccb3ceaf8a4966855e268475c02920\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from G:\m8-calculator\app\src\main\AndroidManifest.xml
+INJECTED from G:\m8-calculator\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from G:\m8-calculator\app\src\main\AndroidManifest.xml
+		ADDED from G:\m8-calculator\app\src\main\AndroidManifest.xml
+		INJECTED from G:\m8-calculator\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\m8-calculator\app\src\main\AndroidManifest.xml
+		ADDED from G:\m8-calculator\app\src\main\AndroidManifest.xml
+		INJECTED from G:\m8-calculator\app\src\main\AndroidManifest.xml
